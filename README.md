@@ -1,5 +1,4 @@
 Banker's Algorithm
-This is a simple implementation of the Banker's algorithm in Python using PyQt5 for the GUI. The Banker's algorithm is a resource allocation and deadlock avoidance algorithm used in computer systems.
 
 Requirements
 Python 3.x
@@ -36,3 +35,4 @@ The Banker's algorithm is implemented in a function defined in main.py.
 The output of the calculation is displayed in the sixth window using a label and a line edit widget.
 Conclusion
 This project provides a simple implementation of the Banker's algorithm using PyQt5 for the GUI. It can be used as a reference for building similar resource allocation and deadlock avoidance algorithms.
+![image](https://github.com/StarSage1/banker-s-algorithm/assets/129214435/f977e314-1e8c-4f50-a06a-e59cfbc72dcf)
