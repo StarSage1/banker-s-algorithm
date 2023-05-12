@@ -35,4 +35,10 @@ The Banker's algorithm is implemented in a function defined in main.py.
 The output of the calculation is displayed in the sixth window using a label and a line edit widget.
 Conclusion
 This project provides a simple implementation of the Banker's algorithm using PyQt5 for the GUI. It can be used as a reference for building similar resource allocation and deadlock avoidance algorithms.
-![image](https://github.com/StarSage1/banker-s-algorithm/assets/129214435/f977e314-1e8c-4f50-a06a-e59cfbc72dcf)
+screeenshots
+
+![capture1](https://github.com/StarSage1/banker-s-algorithm/assets/129214435/f8e7cfc6-3bd0-41bc-92cd-eeee75beedc1)
+![capture2](https://github.com/StarSage1/banker-s-algorithm/assets/129214435/e8fdf61c-4fbd-40cf-81d3-9697610f464f)![capture3](https://github.com/StarSage1/banker-s-algorithm/assets/129214435/ea26df21-bf8e-4b05-b2b9-ca5043541b80)
+![capture3](https://github.com/StarSage1/banker-s-algorithm/assets/129214435/e06e1272-4c6e-49da-8164-450d8a153489)
+![capture4](https://github.com/StarSage1/banker-s-algorithm/assets/129214435/aeb29dc2-df86-49b5-a977-312ff5860676)
+
